@@ -1,0 +1,2 @@
+client_get test.txt localhost 
+client_post file1.txt localhost 
